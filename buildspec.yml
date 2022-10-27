@@ -7,3 +7,6 @@ phases:
 artifacts:
   files:
     - '**/*'
+    
+    
+    #not needed for elastic
